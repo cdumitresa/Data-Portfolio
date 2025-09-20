@@ -3,7 +3,7 @@ Montgomery County Fleet Equipment Inventory Projects
 
 Project 1 – Data Cleaning and Preparation
 
-Source: Montgomery County Fleet Equipment Inventory
+Source: https://data.montgomerycountymd.gov/Government/Fleet-Equipment-Inventory/93vc-wpdr/data_preview
 Files:
    - Montgomery_Fleet_Equipment_Inventory_FA_PART_1_START.CSV
    - Montgomery_Fleet_Equipment_Inventory_FA_PART_1_END.xlsx
@@ -25,10 +25,10 @@ Skills Acquired:
    • Flash Fill for merging data
    • Basic Excel navigation and formatting
 
-══════════════════════════════════════════════════════
+
 Project 2 – Data Analysis with Pivot Tables
-══════════════════════════════════════════════════════
-Source: Montgomery County Fleet Equipment Inventory
+
+Source: https://data.montgomerycountymd.gov/Government/Fleet-Equipment-Inventory/93vc-wpdr/about_data
 Files:
    - Montgomery_Fleet_Equipment_Inventory_FA_PART_2_START.XLSX
    - Montgomery_Fleet_Equipment_Inventory_FA_PART_2_END.XLSX
