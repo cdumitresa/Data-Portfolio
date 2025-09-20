@@ -1,10 +1,8 @@
-╔══════════════════════════════════════════════════════╗
-           Montgomery County Fleet Equipment Inventory Projects
-╚══════════════════════════════════════════════════════╝
 
-══════════════════════════════════════════════════════
+Montgomery County Fleet Equipment Inventory Projects
+
 Project 1 – Data Cleaning and Preparation
-══════════════════════════════════════════════════════
+
 Source: Montgomery County Fleet Equipment Inventory
 Files:
    - Montgomery_Fleet_Equipment_Inventory_FA_PART_1_START.CSV
